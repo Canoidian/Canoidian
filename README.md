@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Canoidian
 - 👀 I’m interested in optomiztion on low end computer
 - 🌱 I’m currently learning about how to code in Python
+- 📷 Am also a automotive and landscape photograper @lensthroughisaak
 
 <!---
 Canoidian/Canoidian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
